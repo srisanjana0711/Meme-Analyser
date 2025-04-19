@@ -69,6 +69,6 @@ HUGGINGFACE_API_KEY = "your_api_key_here"
 
 ### **🧑‍💻 Author**
 👤 **Srisanjana Karunamoorthy**  
-🔗 GitHub: [Sanju-07112001](https://github.com/Sanju-07112001)  
+🔗 GitHub: [srisanjana0711](https://github.com/srisanjana0711)  
 
 ---
