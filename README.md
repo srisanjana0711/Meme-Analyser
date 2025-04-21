@@ -1,5 +1,3 @@
-
-
 # Meme Analyser  
 
 ## 📌 Overview  
